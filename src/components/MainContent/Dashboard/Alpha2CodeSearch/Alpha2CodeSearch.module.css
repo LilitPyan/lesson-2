@@ -1,0 +1,38 @@
+.search_container{
+    width: 600px;
+    height: 250px;
+    background-color: lightsteelblue;
+    border-style: groove;
+    border-radius: 5px;
+    display: inline-block;
+    position: relative;
+    margin-left: 70px;
+}
+.search_area{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.select{
+    width: 150px;
+    font-size: 16px;
+    border: 1px solid lightslategrey;
+    height: 34px;
+}
+.search_result {
+    margin-top: -34px;
+    width: 350px;
+    height: 210px;
+    margin-left: 200px;
+    display: block;
+    border-style: groove;
+    background-color: white;
+}
+.name {
+    font-weight: bolder;
+    margin-left: 40px;
+    margin-top: 15px;
+}
+.name span{
+    font-weight: lighter;
+    margin-left: 10px;
+}

@@ -1,0 +1,46 @@
+.list_item {
+    padding-top: 15px;
+}
+.item{
+    width: 590px;
+    border-style: groove;
+    min-height: 70px;
+    background-color: aliceblue;
+}
+.icon{
+    height: 60px;
+    width: 60px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.name {
+    font-weight: bolder;
+    width: 70px;
+    margin: 0;
+    height: 20px;
+    padding-left: 30px;
+    padding-top: 5px;
+}
+.text{
+    width: 430px;
+    margin: 0;
+    padding-left: 30px;
+    height: 45px;
+}
+.info{
+    margin: 0;
+    padding: 0;
+    float: left;
+    position: relative;
+}
+.delete_btn{
+    margin-top: 15px;
+    height: 25px;
+    width: 25px;
+    color: mediumslateblue;
+    position: absolute;
+}
+.delete_btn:hover{
+    color: black;
+    background-color: white;
+}

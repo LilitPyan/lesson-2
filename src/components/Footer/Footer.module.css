@@ -1,0 +1,5 @@
+.app_footer {
+    grid-area: footer;
+    height: 100px;
+    background-color: #5ab0ed;
+}

@@ -1,0 +1,82 @@
+.youtube_page{
+    display: inline-block;
+    height: 800px;
+    width: 1160px;
+    margin: 5px;
+}
+.page_title{
+    margin-left: 100px;
+    margin-top: 15px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.page_container{
+    background-color: beige;
+    border-style: groove;
+    border-radius: 4px;
+    height: 740px;
+    width: 700px;
+    display: inline-block;
+    margin-left: 100px;
+    margin-top: 15px;
+}
+.search_item {
+    height: 55px;
+    width: 450px;
+    margin-left: 30px;
+    margin-top: 5px;
+    display: inline-block;
+}
+.search_item form{
+    padding-top: 6px;
+    width: 370px;
+}
+.search_item input{
+    width: 350px;
+    height: 30px;
+    border-radius: 10px;
+    border: groove;
+    font-size: 15px;
+    outline: none;
+}
+.form_btn{
+    margin-left: 10px;
+    position: absolute;
+    height: 36px;
+    border-style: groove;
+    border-radius:5px;
+}
+.form_btn:hover{
+    background-color: gray;
+}
+.form_btn:active{
+    background-color: #333f47;
+}
+.form_icon{
+    height: 20px;
+    width: 20px;
+    background-color: inherit;
+}
+.video_item{
+    margin-top: 15px;
+    height:290px;
+    background-color: white;
+    width: 344px;
+    border-style: groove;
+    border-radius: 5px;
+}
+.search_video_item{
+    background-color: white;
+    height: 660px;
+    width: 275px;
+    margin-left: 370px;
+    margin-top: -295px;
+    border-style: groove;
+    border-radius: 5px;
+    display: inline-block;
+}
+.vItem{
+    height: 240px;
+    width: 270px;
+    margin-bottom: -70px;
+}

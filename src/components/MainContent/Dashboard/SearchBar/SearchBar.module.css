@@ -1,0 +1,19 @@
+.search_item {
+    height: 55px;
+    width: 400px;
+    margin-left: 50px;
+    margin-top: 5px;
+}
+.search_item form{
+    padding-top: 6px;
+    padding-left: 20px;
+    width: 370px;
+}
+.search_item input{
+    width: 350px;
+    height: 30px;
+    border-radius: 10px;
+    border: groove;
+    font-size: 15px;
+    outline: none;
+}

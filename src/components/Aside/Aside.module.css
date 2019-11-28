@@ -1,0 +1,32 @@
+.app_aside {
+    grid-area: aside;
+    background-color: #212c33;
+    width: 190px;
+    min-height: 800px;
+}
+.icon_aside{
+    background-color: #212c33;
+    width: 40px;
+    grid-area: aside;
+}
+.app_header {
+    grid-area: header;
+    height: 50px;
+    background-color: #5ab0ed;
+}
+.site_name{
+    margin-left: 40px;
+    padding-right: 20px;
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.menu_btn{
+    background-color: inherit;
+    border-style: inherit;
+    margin-top: 15px;
+    padding-left: 15px;
+}
+button {
+    outline: none;
+}

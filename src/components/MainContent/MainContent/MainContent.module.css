@@ -1,0 +1,41 @@
+.main_container {
+    padding-left: 170px;
+    min-height: 800px;
+}
+.form{
+    border: 3px solid #CCC;
+    background-color: white;
+    height: 60px;
+    width: 570px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    margin-top: 20px;
+}
+.form input{
+    height: 50px;
+    width: 320px;
+    border-radius: 5px;
+    background-color: aliceblue;
+}
+.form button{
+    margin-left: 35px;
+    height: 50px;
+    width: 60px;
+    color: white;
+    background-color: mediumslateblue;
+}
+.message{
+    padding-top: 20px;
+    width: 590px;
+    margin-bottom: 25px;
+}
+.title{
+    font-weight: bolder;
+    font-size: 20px;
+}
+.plus{
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+}
