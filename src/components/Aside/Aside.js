@@ -44,9 +44,9 @@ class Aside extends React.Component {
             <DropDownItem
               icon={<IoIosCopy/>}
               title={'Layout Options'}
-              firstLink={'/c_link'}
+              firstLink={'/react_simple_maps'}
               secondLink={'/d_link'}
-              firstLi={'c'}
+              firstLi={'React Simple Maps'}
               secondLi={'d'}
             />
             <DropDownItem

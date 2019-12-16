@@ -1,0 +1,19 @@
+{
+    "home": {
+    "title": "Armenian"
+},
+    "dashboard": "Վահանակ",
+    "store": "Խանութ",
+    "stores": "Խանութներ",
+    "add_edit_store": "Ավելացնել / Փոփոխել խանութը",
+    "add_edit_ornament": "",
+    "logo": "Լոգո",
+    "auth_invalid_email_password": "Սխալ էլ. հասցե կամ գաղտնաբառ",
+    "archive": "Արխիվ",
+    "updated": "Վերջին թարմացումը",
+    "metals": "Մետաղներ",
+    "add_metals": "Ավելացնել մետաղներ",
+    "enter_valid_photo": "Մուտքագրեք վավեր լուսանկար"
+
+
+}
